@@ -9,5 +9,7 @@ Fork from a [checker-free version](//oxguy3.github.io/2048-Fibonacci/) of [2584]
 ## Contributing
 Anyone can fork this to fit your AI, feel free to ask questions if you need some help:)
 
+However, there is no trained database included. If you find your clone can't be executed properly, it's normal.
+
 ## License
 Fib2584Ai is licensed under the [MIT license.](//voicecrystal.lionfree.net/Others/Fib2584/LICENSE.txt)
